@@ -1,4 +1,4 @@
-#INTRODUCTION: A image captioning model made using inceptionV3,glove and flickr8k dataset
+# INTRODUCTION: A image captioning model made using inceptionV3,glove and flickr8k dataset
 PROPOSED SYSTEM:
 Image captioning is a new technology that combines LSTM text generation with the computer vision powers of a convolutional neural network. Here we will make use of LSTM and CNN to create a basic image captioning system. Inception is used to extract features from the images. Glove is a set of Natural Language Processing (NLP) vectors for common words.
 There are two neural networks that are accessed via transfer learning.
